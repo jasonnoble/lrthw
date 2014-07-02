@@ -1,3 +1,4 @@
+```
 badkinss-MacBook-Air:Chapter_3 badkins$ irb
 2.1.2 :001 > 'What kind of mileage am I getting?'
  => "What kind of mileage am I getting?"
@@ -20,3 +21,4 @@ badkinss-MacBook-Air:Chapter_3 badkins$ irb
 2.1.2 :010 > (292 / 15.5).round(*2)
  => 18.84
 2.1.2 :011 >quit
+```
